@@ -1,0 +1,14 @@
+Radio
+Geofence
+GeoPosicao
+ShareImages
+Log de deslocamento
+Marca de passagem de Ronda
+Duracao do turno
+Ordem de rendição
+Lock de App para não fazer outras coisas
+Usuário e senha para autenticação
+Avaliação da duração da bateria
+Abrir squelsh por som e não somente apertando o ptt
+
+Servidor com os colegas para rendição e ips e colegas
